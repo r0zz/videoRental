@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="shop.ui" project="source" file="/source/hw-03/source/shop/ui" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="154" width="211" x="182" y="297"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="shop.main" project="source" file="/source/hw-03/source/shop/main" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="71" width="122" x="188" y="601"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="shop.data" project="source" file="/source/hw-02/source/shop/data" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="108" width="175" x="185" y="467"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="shop.command" project="source" file="/source/hw-03/source/shop/command" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="219" width="235" x="182" y="61"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
